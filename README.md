@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=arturs-ketlers&count_private=true&show_icons=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=arturs-ketlers&count_private=true&show_icons=true&hide=contribs,issues&cache_seconds=86400&hide_border=true&bg_color=20,ffdc90,ff9999&text_color=222&title_color=000&icon_color=333)
+
+
 
 ### Languages and Tools:
 
@@ -30,5 +32,10 @@ Here are some ideas to get you started:
 <img align="left" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Rails" title="Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
+<!--<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arturs-ketlers&layout=compact)
+-->
 <br>
 <br>
