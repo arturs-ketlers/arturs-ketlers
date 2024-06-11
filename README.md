@@ -2,7 +2,7 @@
 
 Programmer at Miittech (Product line - Meemo)
 
-[![Website](https://img.shields.io/website?label=meemo.tech&style=for-the-badge&url=https://meemo.tech/)](https://meemo.tech/)
+<a href="https://meemo.tech/" target="_blank"><img src="https://img.shields.io/website?label=meemo.tech&style=for-the-badge&url=https://meemo.tech/"></a>
 
 <br>
 
